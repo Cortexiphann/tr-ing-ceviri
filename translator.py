@@ -1,3 +1,4 @@
+#FurkanFilikci
 import tkinter as tk
 from translate import Translator
 
